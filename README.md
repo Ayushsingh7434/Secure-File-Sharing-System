@@ -1,7 +1,7 @@
 
-# 📁 EZ Lab - Backend Intern Assignment
+# 📁 Secure File Sharing System
 
-This repository contains the solution to the **Backend Internship Assessment** provided by **EZ Lab**. The project is a **secure file-sharing REST API** built using **FastAPI**. It features **role-based access control**, **JWT authentication**, and secure **one-time file download** functionality.
+This repository contains The project that is **secure file-sharing REST API** built using **FastAPI**. It features **role-based access control**, **JWT authentication**, and secure **one-time file download** functionality.
 
 ---
 
